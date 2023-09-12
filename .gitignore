@@ -1,1 +1,4 @@
 build/
+vendor/raylib/lib/amd64/libraylib.so
+vendor/raylib/lib/amd64/libraylib.so.4.5.0
+vendor/raylib/lib/amd64/libraylib.so.450
